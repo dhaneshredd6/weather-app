@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Weather App - Open-Meteo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🌤️ Weather App</h1>
+    <button id="theme-toggle">🌙 Dark Mode</button>
+    <form id="weather-form">
+      <input type="text" id="city-input" placeholder="Enter city (e.g., London)" required />
+      <button type="submit">Get Weather</button>
+    </form>
+
+    <div id="weather-result" class="weather-card hidden">
+      <h2 id="city-name"></h2>
+      <div class="current-weather">
+        <img id="current-icon" src="" alt="Weather icon" />
+        <p><strong>Temperature:</strong> <span id="temperature"></span>°C</p>
+        <p><strong>Windspeed:</strong> <span id="windspeed"></span> km/h</p>
+        <p><strong>Condition:</strong> <span id="condition"></span></p>
+      </div>
+
+      <h3>5-Day Forecast</h3>
+      <div id="forecast" class="forecast-container"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
