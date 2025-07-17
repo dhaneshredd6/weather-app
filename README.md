@@ -3,43 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Weather App - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 20px;
-      background: #f4f4f4;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 5px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    pre {
-      background-color: #272822;
-      color: #f8f8f2;
-      padding: 15px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      padding-left: 20px;
-    }
-  </style>
+
 </head>
 <body>
 
@@ -109,9 +73,9 @@ cd weather-app</code></pre>
   </ul>
 
   <h2>👤 Author</h2>
-  <p><strong>Your Name</strong><br/>
-  <a href="https://github.com/your-username" target="_blank">GitHub</a> • 
-  <a href="https://your-portfolio.com" target="_blank">Portfolio</a></p>
+  <p><strong>sri dhanesh reddy</strong><br/>
+  <a href=https://github.com/dhaneshredd6 target="_blank">GitHub</a> 
+ 
 
 </body>
 </html>
