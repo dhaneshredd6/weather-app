@@ -10,8 +10,7 @@
   <h1>🌤️ Weather App using Open-Meteo API</h1>
   <p>This is a simple and responsive weather application built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. It fetches real-time weather data from the <strong>Open-Meteo API</strong> and displays the current weather conditions for a given location.</p>
 
-  <h2>🔗 Live Demo</h2>
-  <p><a href="https://your-live-demo-url.com" target="_blank">Link to your deployed project (replace with actual URL)</a></p>
+ 
 
   <h2>📌 Features</h2>
   <ul>
@@ -69,7 +68,7 @@ cd weather-app</code></pre>
   <h2>🙌 Acknowledgements</h2>
   <ul>
     <li><a href="https://open-meteo.com/" target="_blank">Open-Meteo API</a></li>
-    <li><a href="https://fontawesome.com/" target="_blank">Font Awesome</a> (if used)</li>
+   
   </ul>
 
   <h2>👤 Author</h2>
